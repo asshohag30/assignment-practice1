@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    /* background-image: url(../image/banner/banner2.png); */
+     background: url(../image/roads-houses-have-been-submerged-flood-waters-sylhet-bangladesh-jun-roads-houses-have-been-submerged-250305292.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.banner-content{
+    width: 500px;
+    text-align: right;
+   color: white;
+   padding-top: 300px;
+   margin-left: 50%;
+}
+.banner-content button{
+    background-color: orange;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-top: 50px;
+
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    
+    
+}
+
+.lorem{
+    margin-top: 5px;
+    color:red;
+}
+.about-content {
+    color: brown;
+    width: 500px;
+    padding-left: 100px;
+}
