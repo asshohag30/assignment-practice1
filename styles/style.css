@@ -43,3 +43,12 @@
     width: 500px;
     padding-left: 100px;
 }
+.footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 100px;
+    background-color: black;
+    color: peru;
+    margin-top: 15px;
+}
