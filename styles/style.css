@@ -52,3 +52,28 @@
     color: peru;
     margin-top: 15px;
 }
+
+.footer-first{
+    width: 60%;
+}
+.footer-first p{
+    width: 60%;
+}
+.footer-second{
+    width: 30%;
+}
+.footer-second button{
+    display: block;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: 800;
+    color: maroon;
+    margin-top: 10px;
+}
+.footer-second input{
+    height: 50px;
+    margin: 10px 0;
+}
+.social-media{
+    margin-top: 10px;
+}
